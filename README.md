@@ -1,4 +1,4 @@
-# track_muter_for_Synthesizer_V_pro
+# track_muter_for_svstudio_v_pro
 Synthesizer_V_pro 와 2 pro 사용자의 작곡을 조금더 수월하게 하기 위하여 개발된 스크립트 입니다.   
 <br>
 본 프로그램은 V 2 pro 버전 기준으로 개발되었습니다. V pro에서도 호환 및 사용은 가능하나, 문제 발생 시 지원이 어려운 점 양해 바랍니다.
