@@ -4,7 +4,7 @@ function getClientInfo() {
     return {
         "name": "Toggle Mute Track " + TARGET_TRACK_NUMBER,
         "author": "peropero1111",
-        "versionNumber": 6,
+        "versionNumber": 1,
         "minEditorVersion": 65537
     };
 }
