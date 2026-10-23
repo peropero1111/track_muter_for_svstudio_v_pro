@@ -9,15 +9,20 @@ Synthesizer_V_pro 와 2 pro 사용자의 작곡을 조금더 수월하게 하기
 </br>
 
 ### 목차
-1. [스크립트 사용법](#스크립트-사용법)
+1. [스크립트 사용법 및 다운로드](#스크립트-사용법-및-다운로드)
 2. [기본키와 사용](#기본키와-사용)
 3. [작동 영상](#작동-영상)
 
 - - -
 
-### 스크립트 사용법 
+### 스크립트 사용법 및 다운로드
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[releases](https://github.com/peropero1111/track_muter_for_svstudio_v_pro/releases/tag/v1.0.0) 페이지에서 js 파일을 내려받을 수 있습니다.
+<br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;1) 먼저 ToogleMuteTrack.js 를 <code>\AppData\Roaming\Dreamtonics\Synthesizer V Studio 2\scripts\Utilities</code> 에 넣어 주십시오.
+<br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/peropero1111/track_muter_for_Synthesizer_V_pro/blob/main/img/2026-08-16%20222036.png?raw=true" width="650" height="650"/>  
 <br>
